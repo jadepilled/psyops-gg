@@ -2648,7 +2648,7 @@ html.no-csstransitions .home-content__main {
 }
 
 .s-about .section-header.has-bottom-sep::before {
-  background-color: rgba(255, 255, 255, 0.1);
+  background-color: rgba(027, 027, 027, 0.1);
 }
 
 .s-about .display-1,
@@ -2772,7 +2772,7 @@ html.no-csstransitions .home-content__main {
  *
  * ------------------------------------------------------------------- */
 .s-about-how {
-  background-color: #ffffff;
+  background-color: #242424;
   padding-bottom: 16rem;
 }
 
@@ -2816,7 +2816,7 @@ html.no-csstransitions .home-content__main {
   height: 112px;
   width: 112px;
   border-radius: 50%;
-  background-color: #ffffff;
+  background-color: #242424;
   background-image: url(../images/icons/icon-play-black.svg);
   background-repeat: no-repeat;
   background-position: 55% center;
@@ -2900,7 +2900,7 @@ html.no-csstransitions .home-content__main {
   display: block;
   width: 1px;
   height: 100%;
-  background-color: #eaeaea;
+  background-color: #121212;
   position: absolute;
   top: 0;
 }
@@ -2934,14 +2934,14 @@ html.no-csstransitions .home-content__main {
   font-weight: 700;
   content: counter(ctr);
   counter-increment: ctr;
-  color: #ffffff;
+  color: #121212;
   height: 54px;
   width: 54px;
   line-height: 54px;
   text-align: center;
   border-radius: 50%;
   background-color: #272727;
-  box-shadow: 0 0 0 15px #ffffff;
+  box-shadow: 0 0 0 15px #121212;
   z-index: 500;
   position: absolute;
   top: -12px;
